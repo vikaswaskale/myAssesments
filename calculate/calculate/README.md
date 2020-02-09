@@ -3,8 +3,8 @@ APP REST API
 
 This API exposes for
 
-    - Get Products
-    - Get Transactions
+    - Multiply two numbers
+    -
     
 
 Installation
@@ -14,8 +14,7 @@ Installation
 
 Scripts
 ---
-	Start MYSQL DB in docker
-		* docker-compose up
+
 	Maven Build JAR
 		* mvn clean install -DskipTests
 	Maven Start Spring Boot Server
@@ -24,8 +23,8 @@ Scripts
 
 Technologies Used
 ---
-    * Java, Spring, Hibernate, JPA, MYSQL
-    * Spring Boot, REST API
+    * Java, Spring, 
+     * Spring Boot, REST API
 
 Test
 ---
