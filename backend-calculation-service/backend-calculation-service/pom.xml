@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.myassesment</groupId>
-	<artifactId>backend-calculate-service</artifactId>
+	<artifactId>backend-calculation-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend-calculate-service</name>
+	<name>backend-calculation-service</name>
 	<description>assessment project of calculation</description>
 
 	<properties>
